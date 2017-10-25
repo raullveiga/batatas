@@ -1,0 +1,10 @@
+C:\Users\FIC\Acrescimo\bin\Debug\netcoreapp2.0\acrescimo.deps.json
+C:\Users\FIC\Acrescimo\bin\Debug\netcoreapp2.0\acrescimo.runtimeconfig.json
+C:\Users\FIC\Acrescimo\bin\Debug\netcoreapp2.0\acrescimo.runtimeconfig.dev.json
+C:\Users\FIC\Acrescimo\bin\Debug\netcoreapp2.0\acrescimo.dll
+C:\Users\FIC\Acrescimo\bin\Debug\netcoreapp2.0\acrescimo.pdb
+C:\Users\FIC\Acrescimo\obj\Debug\netcoreapp2.0\acrescimo.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Acrescimo\obj\Debug\netcoreapp2.0\acrescimo.AssemblyInfoInputs.cache
+C:\Users\FIC\Acrescimo\obj\Debug\netcoreapp2.0\acrescimo.AssemblyInfo.cs
+C:\Users\FIC\Acrescimo\obj\Debug\netcoreapp2.0\acrescimo.dll
+C:\Users\FIC\Acrescimo\obj\Debug\netcoreapp2.0\acrescimo.pdb

@@ -1,0 +1,10 @@
+C:\Users\FIC\Raul\matriz1\bin\Debug\netcoreapp2.0\matriz1.deps.json
+C:\Users\FIC\Raul\matriz1\bin\Debug\netcoreapp2.0\matriz1.runtimeconfig.json
+C:\Users\FIC\Raul\matriz1\bin\Debug\netcoreapp2.0\matriz1.runtimeconfig.dev.json
+C:\Users\FIC\Raul\matriz1\bin\Debug\netcoreapp2.0\matriz1.dll
+C:\Users\FIC\Raul\matriz1\bin\Debug\netcoreapp2.0\matriz1.pdb
+C:\Users\FIC\Raul\matriz1\obj\Debug\netcoreapp2.0\matriz1.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Raul\matriz1\obj\Debug\netcoreapp2.0\matriz1.AssemblyInfoInputs.cache
+C:\Users\FIC\Raul\matriz1\obj\Debug\netcoreapp2.0\matriz1.AssemblyInfo.cs
+C:\Users\FIC\Raul\matriz1\obj\Debug\netcoreapp2.0\matriz1.dll
+C:\Users\FIC\Raul\matriz1\obj\Debug\netcoreapp2.0\matriz1.pdb

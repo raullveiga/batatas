@@ -1,0 +1,10 @@
+C:\~~\Raul\lerex\bin\Debug\netcoreapp2.0\lerex.deps.json
+C:\~~\Raul\lerex\bin\Debug\netcoreapp2.0\lerex.runtimeconfig.json
+C:\~~\Raul\lerex\bin\Debug\netcoreapp2.0\lerex.runtimeconfig.dev.json
+C:\~~\Raul\lerex\bin\Debug\netcoreapp2.0\lerex.dll
+C:\~~\Raul\lerex\bin\Debug\netcoreapp2.0\lerex.pdb
+C:\~~\Raul\lerex\obj\Debug\netcoreapp2.0\lerex.csproj.CoreCompileInputs.cache
+C:\~~\Raul\lerex\obj\Debug\netcoreapp2.0\lerex.AssemblyInfoInputs.cache
+C:\~~\Raul\lerex\obj\Debug\netcoreapp2.0\lerex.AssemblyInfo.cs
+C:\~~\Raul\lerex\obj\Debug\netcoreapp2.0\lerex.dll
+C:\~~\Raul\lerex\obj\Debug\netcoreapp2.0\lerex.pdb

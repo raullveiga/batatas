@@ -1,0 +1,10 @@
+C:\~~\Raul\poo\ppoo\bin\Debug\netcoreapp2.0\ppoo.deps.json
+C:\~~\Raul\poo\ppoo\bin\Debug\netcoreapp2.0\ppoo.runtimeconfig.json
+C:\~~\Raul\poo\ppoo\bin\Debug\netcoreapp2.0\ppoo.runtimeconfig.dev.json
+C:\~~\Raul\poo\ppoo\bin\Debug\netcoreapp2.0\ppoo.dll
+C:\~~\Raul\poo\ppoo\bin\Debug\netcoreapp2.0\ppoo.pdb
+C:\~~\Raul\poo\ppoo\obj\Debug\netcoreapp2.0\ppoo.csproj.CoreCompileInputs.cache
+C:\~~\Raul\poo\ppoo\obj\Debug\netcoreapp2.0\ppoo.AssemblyInfoInputs.cache
+C:\~~\Raul\poo\ppoo\obj\Debug\netcoreapp2.0\ppoo.AssemblyInfo.cs
+C:\~~\Raul\poo\ppoo\obj\Debug\netcoreapp2.0\ppoo.dll
+C:\~~\Raul\poo\ppoo\obj\Debug\netcoreapp2.0\ppoo.pdb

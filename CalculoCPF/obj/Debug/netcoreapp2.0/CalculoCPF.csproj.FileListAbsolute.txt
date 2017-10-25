@@ -1,0 +1,10 @@
+C:\~~\Raul\CalculoCPF\bin\Debug\netcoreapp2.0\CalculoCPF.deps.json
+C:\~~\Raul\CalculoCPF\bin\Debug\netcoreapp2.0\CalculoCPF.runtimeconfig.json
+C:\~~\Raul\CalculoCPF\bin\Debug\netcoreapp2.0\CalculoCPF.runtimeconfig.dev.json
+C:\~~\Raul\CalculoCPF\bin\Debug\netcoreapp2.0\CalculoCPF.dll
+C:\~~\Raul\CalculoCPF\bin\Debug\netcoreapp2.0\CalculoCPF.pdb
+C:\~~\Raul\CalculoCPF\obj\Debug\netcoreapp2.0\CalculoCPF.csproj.CoreCompileInputs.cache
+C:\~~\Raul\CalculoCPF\obj\Debug\netcoreapp2.0\CalculoCPF.AssemblyInfoInputs.cache
+C:\~~\Raul\CalculoCPF\obj\Debug\netcoreapp2.0\CalculoCPF.AssemblyInfo.cs
+C:\~~\Raul\CalculoCPF\obj\Debug\netcoreapp2.0\CalculoCPF.dll
+C:\~~\Raul\CalculoCPF\obj\Debug\netcoreapp2.0\CalculoCPF.pdb

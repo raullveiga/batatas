@@ -1,0 +1,3 @@
+C:\Users\FIC\Raul\Cargos\obj\Debug\netcoreapp2.0\Cargos.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Raul\Cargos\obj\Debug\netcoreapp2.0\Cargos.AssemblyInfoInputs.cache
+C:\Users\FIC\Raul\Cargos\obj\Debug\netcoreapp2.0\Cargos.AssemblyInfo.cs
