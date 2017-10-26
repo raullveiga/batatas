@@ -6,7 +6,10 @@ namespace qpoo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Produtos pr = new Produtos(01,"batata","aofjiao",123.123);
+            pr.salvar();
+
+            
         }
     }
 }
