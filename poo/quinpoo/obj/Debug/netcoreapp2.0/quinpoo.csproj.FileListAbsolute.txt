@@ -1,0 +1,10 @@
+C:\~~\Raul\poo\quinpoo\bin\Debug\netcoreapp2.0\quinpoo.deps.json
+C:\~~\Raul\poo\quinpoo\bin\Debug\netcoreapp2.0\quinpoo.runtimeconfig.json
+C:\~~\Raul\poo\quinpoo\bin\Debug\netcoreapp2.0\quinpoo.runtimeconfig.dev.json
+C:\~~\Raul\poo\quinpoo\bin\Debug\netcoreapp2.0\quinpoo.dll
+C:\~~\Raul\poo\quinpoo\bin\Debug\netcoreapp2.0\quinpoo.pdb
+C:\~~\Raul\poo\quinpoo\obj\Debug\netcoreapp2.0\quinpoo.csproj.CoreCompileInputs.cache
+C:\~~\Raul\poo\quinpoo\obj\Debug\netcoreapp2.0\quinpoo.AssemblyInfoInputs.cache
+C:\~~\Raul\poo\quinpoo\obj\Debug\netcoreapp2.0\quinpoo.AssemblyInfo.cs
+C:\~~\Raul\poo\quinpoo\obj\Debug\netcoreapp2.0\quinpoo.dll
+C:\~~\Raul\poo\quinpoo\obj\Debug\netcoreapp2.0\quinpoo.pdb
